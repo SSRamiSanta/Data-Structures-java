@@ -1,0 +1,8 @@
+Algoritmo de Huffman
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+Programa para la codificación de un mensaje, su arbol binario y tabla de huffman
+Ingrese una palabra sin espacios
+
+Programa con algunas restricciones

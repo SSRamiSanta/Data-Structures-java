@@ -1,0 +1,9 @@
+Recorrido de grafos
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+Ingrese los nodos de un grafo
+Ingrese la arista a la cual se dirige el nodo del grafo actual(1->2, 2->1)
+Escoja el origen del recorrido
+
+Programa con algunas restricciones

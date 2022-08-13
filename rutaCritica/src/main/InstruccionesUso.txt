@@ -1,0 +1,10 @@
+Ruta Crítica
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+Inserte los nodos de un grafo
+Inserte las rutas de las aristas (destino,origen,peso)
+Verifique que el grafo es plano
+Evidencie que exista una ruta
+
+Programa con algunas restricciones

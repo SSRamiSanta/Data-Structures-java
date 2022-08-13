@@ -1,0 +1,8 @@
+Numero cromático
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+Calculo del numero cromático de un grafo plano
+Dibuje un grafo plano, inserte su lista de adyacencia
+
+Programa con algunas restricciones

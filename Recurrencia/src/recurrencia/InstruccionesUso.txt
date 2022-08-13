@@ -1,0 +1,10 @@
+Ecuación en recurrencia
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+Cálcuclo de las raices (reales) de un polinomio grado n y su ecuacion de recurrencia a partir de condiciones iniciales
+Ingrese grado del polinomio
+Ingrese coeficientes del polinomio
+Ingrese condiciones iniciales para la ecuación de recurrencia
+
+Programa con algunas restricciones

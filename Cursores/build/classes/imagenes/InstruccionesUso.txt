@@ -1,0 +1,9 @@
+Cursores AVL
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+Estructura implícita de los ingresos en un arbol AVL
+Ingrese palabra por palabra
+Retire una palabra existente
+
+Programa con algunas restricciones

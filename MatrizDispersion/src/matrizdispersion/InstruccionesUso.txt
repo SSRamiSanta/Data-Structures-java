@@ -1,0 +1,11 @@
+Matriz de dispersion
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+Metodo de dispersión por división a partir de un número primo
+Inserte un número primo
+Inserte n datos para procesar
+Elimine un dato individual
+Busque un dato individual
+
+Programa con algunas restricciones

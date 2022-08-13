@@ -1,0 +1,20 @@
+Arbol Binario
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+
+Arboles binarios
+Ingrese numeros separados por comas sin espacios
+No repita numeros
+Ingrese numero individualmente
+Retire un numero del arbol
+Verifique si un numero existe en el arbol
+
+Reconstruccion
+Inserte los recorridos en letras indicados para construir el arbol a partir de ellos
+Ejemplo:
+Pos:      kjgfcbheida
+Pre:      abjkcfgdehi
+In:       jkbfgcaehdi
+
+Programa con algunas restricciones

@@ -1,0 +1,9 @@
+Metodos de dispersion
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+Metodo de división, midsquare, transformación y plegamiento
+Inserte una llave de máximo 9 cifras
+Inserte los datos para cada uno de los metodos de dispersion
+
+Programa con algunas restricciones

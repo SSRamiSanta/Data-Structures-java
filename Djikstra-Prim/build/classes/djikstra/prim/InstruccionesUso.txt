@@ -1,0 +1,9 @@
+Algoritmo de Djikstra & Prim
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+Ingresar un grafo plano
+Ingresar valores de las aristas entre 1 y 98
+Valor de 99 de una arista para no ingresarla
+
+Programa con algunas restricciones

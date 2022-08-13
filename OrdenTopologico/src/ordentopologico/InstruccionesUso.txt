@@ -1,0 +1,9 @@
+Orden topologico
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+Cálculo del orden topológico de un grafo dirigido
+Inserte los nodos de un grafo dirigido
+Inserte el nodo al cual se dirige la arista en la matriz de adyacencia
+
+Programa con algunas restricciones

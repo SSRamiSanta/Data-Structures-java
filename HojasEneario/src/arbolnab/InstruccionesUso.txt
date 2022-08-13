@@ -1,0 +1,10 @@
+Hojas Eneario (Lista doble)
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+
+Inserte las hojas para cada nodo y su valor
+Inserte datos en las hojas unidas a la raíz o que existan
+La raíz es A
+
+Programa con algunas restricciones

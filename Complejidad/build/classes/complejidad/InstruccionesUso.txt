@@ -1,0 +1,5 @@
+Complejidad
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+Gráfica de diferentes algoritmos de complejidad de búsqueda para 500 números

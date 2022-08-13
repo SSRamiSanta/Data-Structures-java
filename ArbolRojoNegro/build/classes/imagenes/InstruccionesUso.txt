@@ -1,0 +1,9 @@
+Arbol Roji-Negro
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+Insertar valor individual
+Retirar un valor individual
+Limpiar lienzo si se cruzan los arboles y volver a dibujar
+
+Programa con algunas restricciones

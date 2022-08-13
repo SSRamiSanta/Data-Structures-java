@@ -1,0 +1,9 @@
+Arbol Eneario
+Autor: Sergio Sebastián Ramírez Santamaria
+Universidad Distrital Francisco José de Caldas
+
+Ingrese palabras separadas por comas
+Ingrese traduccion en el orden de los ingresos
+Inserte una palabra existente para consultar
+
+Programa con algunas restricciones
